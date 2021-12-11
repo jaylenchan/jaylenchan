@@ -11,7 +11,7 @@
 
 | :pencil2: | :email: |
 | --- | -- |
-| [Learning-Summary](https://xihuanxiaorang.github.io/) | [Email](mailto:jaylen.chan@hotmail.com)|
+| [Learning-Summary](https://github.com/jaylenchan/learning-summary) | [Email](mailto:jaylen.chan@hotmail.com)|
 
 ### 🌈 Github Stats:
  <h1 align="center">
