@@ -9,11 +9,12 @@
     </h1>
 </div>
 
+### ⚡Looking For:
 | :pencil2: | :email: |
 | --- | -- |
 | [Learning-Summary](https://github.com/jaylenchan/learning-summary) | [Email](mailto:jaylen.chan@hotmail.com)|
 
-### 🌈 Github Stats:
+### 🌈Github Stats:
  <h1 align="center">
  <a href="https://github.com/jaylenchan">
       <img align="left"
