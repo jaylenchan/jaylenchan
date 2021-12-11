@@ -34,7 +34,7 @@
 </h1>
 
 ### 🍹github trophy
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaylenchan" alt="jaylenchan" /></a> </p>
+<h1 align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaylenchan" alt="jaylenchan" /></a> </h1>
 
  ### 🍭Languages and Tools
 <h1 align="left">
